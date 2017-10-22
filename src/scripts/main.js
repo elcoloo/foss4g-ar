@@ -29,6 +29,7 @@ import ignLogo from '../images/ign.png';
 import osgeoLogo from '../images/osgeo.png';
 import cacLogo from '../images/cac.png';
 import ideraLogo from '../images/idera.png';
+import conaeLogo from '../images/conae.png';
 
 import logoCarto from '../images/carto.png';
 import logoBoundless from '../images/boundless.png';
@@ -64,6 +65,7 @@ document.body.insertAdjacentHTML('beforeend', about({
   osgeoLogo,
   cacLogo,
   ideraLogo,
+  conaeLogo,
 }));
 
 document.body.insertAdjacentHTML('beforeend', calendar());
